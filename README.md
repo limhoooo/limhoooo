@@ -22,3 +22,8 @@
 <h1>Me</h1>	
   [![Tech Blog Badge](http://img.shields.io/badge/-My%20Blog-black?style=flat-square&logo=Bloglovin&link=https://limhoooo.tistory.com/)](https://limhoooo.tistory.com/)
   </div>
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
