@@ -13,7 +13,7 @@
 <h1>Etc</h1>	
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Axios-2C5BB4?style=flat-square&logo=AIOHTTP&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Vuex-F7DF1E?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>&nbsp 
