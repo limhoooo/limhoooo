@@ -18,9 +18,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>&nbsp 
   </div>
-
   <div align=center>
-	
+<h1>Me</h1>	
   [![Tech Blog Badge](http://img.shields.io/badge/-My%20Blog-black?style=flat-square&logo=Bloglovin&link=https://limhoooo.tistory.com/)](https://limhoooo.tistory.com/)
-	
   </div>
